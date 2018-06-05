@@ -1,3 +1,4 @@
+#test script
 require './app.rb'
 require 'minitest/autorun'
 require 'rack/test'
